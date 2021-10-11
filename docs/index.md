@@ -1,7 +1,5 @@
-# 测试页面
+## Properties
 
-<Test></Test>
-
-<script setup>
-import Test from '../src/test.vue'
-</script>
+| Property | Type                                 |
+| -------- | ------------------------------------ |
+| icon     | { active: string; default: string; } |
