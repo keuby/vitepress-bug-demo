@@ -1,0 +1,20 @@
+{
+  "name": "vitepress-bug-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs"
+  },
+  "devDependencies": {
+    "less": "^4.1.2",
+    "unplugin-vue-components": "^0.15.6",
+    "vite": "^2.6.5",
+    "vitepress": "^0.20.0"
+  },
+  "dependencies": {
+    "ant-design-vue": "^2.2.8",
+    "vue": "^3.2.20"
+  }
+}
